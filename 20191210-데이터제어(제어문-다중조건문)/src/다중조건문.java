@@ -56,6 +56,7 @@ public class 다중조건문 {
 		System.out.println("총점: "+total);
 		System.out.printf("평균: %.2f\n",avg);
 		System.out.println("학점: "+score);
+		
 	}
 
 }
